@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447797319 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\shopping card lab6\main.cpp
+	<iostream>
+	"card.h"
+
+1447796808 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\shopping card lab6\card.cpp
+	"card.h"
+	<iostream>
+	<string>
+
+1447796577 c:\users\chuck\documents\studies\2nd year\object oriented c++\shopping card lab6\card.h
+	<iostream>
+	<string>
+	<vector>
+
